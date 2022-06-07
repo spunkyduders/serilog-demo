@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dPJGQ8UBSOfmXLWEDdk/uAPqPMAbrS2XhiZLzXMwUao=",
+  "Source": "serilog-demo",
+  "BasePath": "_content/serilog-demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
